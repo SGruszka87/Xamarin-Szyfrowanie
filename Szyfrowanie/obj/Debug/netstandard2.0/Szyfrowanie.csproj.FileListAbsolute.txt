@@ -1,0 +1,13 @@
+D:\projekty\Szyfrowanie\Szyfrowanie\bin\Debug\netstandard2.0\Szyfrowanie.deps.json
+D:\projekty\Szyfrowanie\Szyfrowanie\bin\Debug\netstandard2.0\Szyfrowanie.dll
+D:\projekty\Szyfrowanie\Szyfrowanie\bin\Debug\netstandard2.0\ref\Szyfrowanie.dll
+D:\projekty\Szyfrowanie\Szyfrowanie\bin\Debug\netstandard2.0\Szyfrowanie.pdb
+D:\projekty\Szyfrowanie\Szyfrowanie\obj\Debug\netstandard2.0\Szyfrowanie.csprojAssemblyReference.cache
+D:\projekty\Szyfrowanie\Szyfrowanie\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\projekty\Szyfrowanie\Szyfrowanie\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\projekty\Szyfrowanie\Szyfrowanie\obj\Debug\netstandard2.0\Szyfrowanie.AssemblyInfoInputs.cache
+D:\projekty\Szyfrowanie\Szyfrowanie\obj\Debug\netstandard2.0\Szyfrowanie.AssemblyInfo.cs
+D:\projekty\Szyfrowanie\Szyfrowanie\obj\Debug\netstandard2.0\XamlC.stamp
+D:\projekty\Szyfrowanie\Szyfrowanie\obj\Debug\netstandard2.0\Szyfrowanie.dll
+D:\projekty\Szyfrowanie\Szyfrowanie\obj\Debug\netstandard2.0\ref\Szyfrowanie.dll
+D:\projekty\Szyfrowanie\Szyfrowanie\obj\Debug\netstandard2.0\Szyfrowanie.pdb
